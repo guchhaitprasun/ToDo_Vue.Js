@@ -1,7 +1,7 @@
 # To-Do-App
 > Simple To-Do-App implementing Single Page Applications (SPA) using Vue.js 
 
-> The Basic Motivation to work on this project is to undersatnd the basic structure of Vue application and to implement a small project to understand the concept of SPA or Single Page Application
+> The Motivation to work on this project is to undersatnd the basic structure of Vue application and to implement a small project to understand the concept of SPA or Single Page Application
 
 > This project use a default boiler plate provided by Vue.js
 
